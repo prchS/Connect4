@@ -1,0 +1,1 @@
+game.setPlayer1(new AIPlayer('R', board, "Alice"))
